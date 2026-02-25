@@ -195,3 +195,7 @@ iq_out.tofile(OUTPUT_FILE)
 print("Done.")
 print(f"Saved to {OUTPUT_FILE}")
 ```
+
+## 📊 Constellation Diagram
+
+![Symbol Synchronizer Constellation](SS_contellation.png)
